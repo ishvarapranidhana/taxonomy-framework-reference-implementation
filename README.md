@@ -236,3 +236,5 @@ It provides a unified, verifiable, and interoperable system for **modern enterpr
 [1] Sequeda, J. F., Allemang, D., & Jacob, B. (2023). *A benchmark to understand the role of knowledge graphs on large language model’s accuracy for question answering on enterprise SQL databases*. arXiv. https://doi.org/10.48550/arXiv.2311.07509
 
 [2]   Abishek Sridhar∗ Chi-Fan Lo∗ Frank F. Xu Hao Zhu Shuyan Zhou† (2024).  *Prompt Engineering for Large Language Models*. arXiv https://arxiv.org/abs/2305.14257.
+
+[original publication] https://www.notion.so/Technical-Report-The-Taxonomic-Framework-A-Unified-System-for-Hierarchical-Identification-Retrie-26958edc7478801eaf3ae84411787e01
